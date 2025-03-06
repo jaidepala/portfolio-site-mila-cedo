@@ -1,3 +1,7 @@
+[build]
+  command = "pnpm install && pnpm build"
+  functions = "functions"
+
 [[redirects]]
   from = "/*"
   to = "/"
