@@ -1,5 +1,4 @@
 import { Divider, Flex, Image, Text } from "@mantine/core"
-import { useDisclosure } from '@mantine/hooks';
 import useWorks from "../hooks/useWork";
 import { replaceAll } from "../utils/utils";
 import { Navigate, useParams } from "react-router-dom";
