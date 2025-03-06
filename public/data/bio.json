@@ -1,0 +1,227 @@
+[
+    {
+        "year": "2022",
+        "id": "1",
+        "projectName": "Merry Christmas",
+        "category": "Feature film",
+        "designation": "Set Dresser",
+        "productionCompany": "Tips Industries Ltd",
+        "description": "Shoot in progress"
+    },
+    {
+        "year": "",
+        "id": "2",
+        "projectName": "Escaype Live",
+        "category": "Web Series",
+        "designation": "Set Dresser",
+        "productionCompany": "One Life Studio",
+        "description": "Airing on Hotstar"
+    },
+    {
+        "year": "",
+        "id": "3",
+        "projectName": "Jayeshbhai Jordaar",
+        "category": "Feature film",
+        "designation": "Set Dresser",
+        "productionCompany": "Yash Raj Films",
+        "description": "Set dresser for the set UjasGoan"
+    },
+    {
+        "year": "2021",
+        "id": "4",
+        "projectName": "Bena",
+        "category": "Short Film",
+        "designation": "Art Director",
+        "productionCompany": "Pocket Films",
+        "description": "Berlin Film Festival: Winner Best DirectorOfficial selection: Filmfare awards 2022 Shades Short Film Festival 2021 California Women''s Film Festival 2022Through Women's Eye Film Festival 2022"
+    },
+    {
+        "year": "",
+        "id": "5",
+        "projectName": "Ranjha (Reprise)",
+        "category": "Music Video",
+        "designation": "Art Director",
+        "productionCompany": "Sony Music India",
+        "description": "Title song of feature filmShershaah"
+    },
+    {
+        "year": "",
+        "id": "6",
+        "projectName": "Sang Rahiyo",
+        "category": "Music Video",
+        "designation": "Art Director",
+        "productionCompany": "Jasleen Royal",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "7",
+        "projectName": "Bansuri",
+        "category": "Music Video",
+        "designation": "Set Dresser",
+        "productionCompany": "Zee Music Company",
+        "description": "Title song of feature film HumDo Humare Do"
+    },
+    {
+        "year": "",
+        "id": "8",
+        "projectName": "Haathi Mere Sathi",
+        "category": "Feature Film",
+        "designation": "Set Dresser",
+        "productionCompany": "",
+        "description": ""
+    },
+    {
+        "year": "2020",
+        "id": "9",
+        "projectName": "OK Credit App",
+        "category": "WebCommercial",
+        "designation": "Art Director",
+        "productionCompany": "About Films",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "10",
+        "projectName": "MediBuddy App",
+        "category": "WebCommercial",
+        "designation": "Art Director",
+        "productionCompany": "About Films",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "11",
+        "projectName": "Jootha Kahin Ka",
+        "category": "Promo",
+        "designation": "Art Director",
+        "productionCompany": "Zee Music Company",
+        "description": "Feature film Jootha Kahin Ka"
+    },
+    {
+        "year": "",
+        "id": "12",
+        "projectName": "Bypass Road",
+        "category": "Feature Film",
+        "designation": "First assistantArt Director",
+        "productionCompany": "NNM Films & MirajEntertainment Pvt. Ltd.",
+        "description": ""
+    },
+    {
+        "year": "2019",
+        "id": "13",
+        "projectName": "Pech Ladaye Aja",
+        "category": "Music Video",
+        "designation": "Art Director",
+        "productionCompany": "Zee Music Company",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "14",
+        "projectName": "Gatsby Hair Gel",
+        "category": "WebCommercial",
+        "designation": "Art Director",
+        "productionCompany": "The Creative Gypsy",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "15",
+        "projectName": "Blued App",
+        "category": "WebCommercial",
+        "designation": "Art Director",
+        "productionCompany": "The Creative Gypsy",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "16",
+        "projectName": "Netflix Promo",
+        "category": "Promo",
+        "designation": "Set Dresser",
+        "productionCompany": "Netflix",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "17",
+        "projectName": "Mehbooba",
+        "category": "Music Video",
+        "designation": "Assistant ArtDirector",
+        "productionCompany": "Excel Entertainment Pvt.Ltd.",
+        "description": "Title track of film FukreyReturns"
+    },
+    {
+        "year": "",
+        "id": "18",
+        "projectName": "Hostages",
+        "category": "Web Series",
+        "designation": "Assistant ArtDirector",
+        "productionCompany": "Hotstar India / Baijayproductions",
+        "description": "Airing at Hotstar"
+    },
+    {
+        "year": "",
+        "id": "19",
+        "projectName": "MTV Unplugged",
+        "category": "Reality TV Show",
+        "designation": "First AssistantArt director",
+        "productionCompany": "Viacom 18",
+        "description": "Airing at MTV India"
+    },
+    {
+        "year": "",
+        "id": "20",
+        "projectName": "Swords and Scepters",
+        "category": "Photo Shoot Campaign",
+        "designation": "Set Dresser",
+        "productionCompany": "Avinash Gowariker",
+        "description": "Still photo shoot for the film, Swords and Scepters"
+    },
+    {
+        "year": "",
+        "id": "21",
+        "projectName": "Symphony Cooler",
+        "category": "Commercial",
+        "designation": "Set Dresser",
+        "productionCompany": "Chalk & Cheese production",
+        "description": ""
+    },
+    {
+        "year": "",
+        "id": "22",
+        "projectName": "LG Charcoal Microwave",
+        "category": "Commercial",
+        "designation": "Set Dresser",
+        "productionCompany": "Wild baba production",
+        "description": ""
+    },
+    {
+        "year": "2017",
+        "id": "23",
+        "projectName": "Section 375",
+        "category": "Feature Film",
+        "designation": "Graphic Designer and Assistant ArtDirector",
+        "productionCompany": "Panorama studios Pvt. Ltd.",
+        "description": "Pre-production work"
+    },
+    {
+        "year": "",
+        "id": "24",
+        "projectName": "Khuda Hafiz",
+        "category": "Feature Film",
+        "designation": "Graphic Designer and Assistant ArtDirector",
+        "productionCompany": "Panorama studios Pvt. Ltd.",
+        "description": "Pre-production work"
+    },
+    {
+        "year": "",
+        "id": "25",
+        "projectName": "Voltas Beko",
+        "category": "PosterCampaign",
+        "designation": "Assistant SetDresser",
+        "productionCompany": "Glitzmodeling company",
+        "description": ""
+    }
+]

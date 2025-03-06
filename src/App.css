@@ -1,0 +1,9 @@
+@import "@mantine/core/styles.css";
+
+.link {
+  text-decoration: none;
+}
+
+.active-link {
+  text-decoration: underline;
+}
